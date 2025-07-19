@@ -44,6 +44,6 @@ Includes dashboards, calendar, authentication, student-teacher workflows, and mo
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🧠 [LeetCode](https://leetcode.com/your-id)
+- 📧 Email: hitendhiman15@gmail.com || hdhiman50_be23@thapar.edu
+- 💼 [LinkedIn](https://www.linkedin.com/in/hiten-dhiman/)
+- 🧠 [LeetCode](https://leetcode.com/u/HitenDhiman15/)
