@@ -8,7 +8,7 @@ Currently focused on building strong fundamentals in DSA and contributing to rea
 ## 🚀 What I'm Doing
 
 - 📚 Solving DSA problems daily — [DSA-Journey](https://github.com/HitenDhiman15/DSA-Journey)
-- 💻 Contributing to [LearnSphere](https://github.com/MyNameIsJasleen/LearnSphere) – a Course Management System built with the MERN stack
+- 💻 Contributing to [LearnSphere](https://github.com/MyNameIsJasleen/LearnSphere) (learn-sphere-cyan.vercel.app)– a Course Management System built with the MERN stack
 - 🎯 Preparing for placements – sharpening coding, system design, and development skills
 - 🌱 Learning Git, GitHub, and writing clean, maintainable code
 
