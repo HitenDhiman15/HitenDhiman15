@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hiten Dhiman
 
-I'm a Computer Engineering student passionate about full-stack development and problem solving with C++.  
+I'm a Computer Engineering student passionate about full-stack development and problem solving with Java & C++.  
 Currently focused on building strong fundamentals in DSA and contributing to real-world projects.
 
 ---
@@ -16,7 +16,7 @@ Currently focused on building strong fundamentals in DSA and contributing to rea
 
 ## 🛠 Tech Stack
 
-- *Languages*: C++, JavaScript, HTML/CSS
+- *Languages*: Java, C++, JavaScript, HTML/CSS
 - *Libraries & Frameworks*: React, Node.js, Express
 - *Database*: MongoDB, Firebase (basics)
 - *Tools*: Git, GitHub, VS Code, Postman
